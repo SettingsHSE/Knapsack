@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/sofik/CLionProjects/Knapsack/ReadWriter.h
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+
+C:/Users/sofik/CLionProjects/Knapsack/main.cpp
+ReadWriter.h
+C:/Users/sofik/CLionProjects/Knapsack/ReadWriter.h
+
